@@ -83,8 +83,6 @@ class FullscreenActivity : AppCompatActivity() {
 
     companion object {
 
-        private const val AUTO_HIDE = true
-
         private const val AUTO_HIDE_DELAY_MILLIS = 3000
 
         private const val UI_ANIMATION_DELAY = 300
